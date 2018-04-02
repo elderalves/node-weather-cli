@@ -20,5 +20,5 @@ Example:
 
 ```sh
 $ node app.js --address "temple square salt lake city"
-$ It's currently 53.83. It feels like 53.83
+$ It\'s currently 53.83. It feels like 53.83
 ```
